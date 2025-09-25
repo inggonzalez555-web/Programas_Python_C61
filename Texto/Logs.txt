@@ -1,0 +1,12 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES
+==================================
+AUTOR: OSCAR GONZALEZ
+FECHA: 2025-09-10
+
+RESULTADOS:
+
+2025-09-10 20:01 creacion del archivo
+creacion del primer programa 2025-09-10
+2025-09-17 Creacion de grafico.py
+Creacion de programa saludos.py 2025-09-18
+Creacion de programa res_estadistico.py 2025-09-18
